@@ -1,2 +1,2 @@
 # Python
-- Generators - https://medium.com/@shajuannmary01/what-are-generators-in-python-ea67f4b15829
+- Generators - https://medium.com/@annmary25/what-are-generators-in-python-ea67f4b15829
